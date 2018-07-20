@@ -1,4 +1,4 @@
-# How to learn Tensorflow.js? 
+# How to learn Tensorflow.js/tfjs? 
 
 ## Tensorflow.js by Google 
 - Website : https://js.tensorflow.org/
