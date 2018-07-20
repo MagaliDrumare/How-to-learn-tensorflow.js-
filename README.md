@@ -1,6 +1,7 @@
 # How to learn Tensorflow.js/tfjs? 
 
 ## Tensorflow.js by Google 
+- Try TensorFlow.js in your browser: https://youtu.be/pbCExciEbrc
 - Website : https://js.tensorflow.org/
 - Demo : https://www.youtube.com/watch?v=OmofOvMApTU
 
